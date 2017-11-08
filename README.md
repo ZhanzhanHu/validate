@@ -30,7 +30,7 @@ Vue2.0写的一个简单易用的表单插件
 
 #### v-model的值、validate函数参数名、validate选项里对象名必须保持一致
 
-`vm.validateParmas.选项中对象名.pass` 返回的是此选项是否通过验证  
+`vm.validateParmas.选项中对象名.pass` 返回此对象input是否通过验证  
 `vm.validateParmas.allPass` 返回此表单是否全通过验证
 
 # Options
