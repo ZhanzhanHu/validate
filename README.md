@@ -1,5 +1,5 @@
 # README
-一个简单易用的表单插件
+Vue2.0写的一个简单易用的表单插件
 
 # **Installation**
 `将文件中的plugin文件夹导入自己项目的src文件中`
